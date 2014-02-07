@@ -1,1 +1,1 @@
-from testrunner import *
+from .testrunner import *
